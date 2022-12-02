@@ -9,9 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.FitnessTracker">
-        <activity android:name=".ImcActivity"></activity>
+        <activity android:name="com.henriqueakruger.fitnesstracker.ImcActivity"></activity>
         <activity
-            android:name=".MainActivity"
+            android:name="com.henriqueakruger.fitnesstracker.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

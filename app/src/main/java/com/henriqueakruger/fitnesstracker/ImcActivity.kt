@@ -1,4 +1,4 @@
-package co.tiagoaguiar.fitnesstracker
+package com.henriqueakruger.fitnesstracker
 
 import android.content.Context
 import android.content.DialogInterface
@@ -11,6 +11,7 @@ import android.widget.EditText
 import android.widget.Toast
 import androidx.annotation.StringRes
 import androidx.appcompat.app.AlertDialog
+import co.tiagoaguiar.fitnesstracker.R
 
 class ImcActivity : AppCompatActivity() {
 

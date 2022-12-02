@@ -11,7 +11,7 @@
         android:orientation="vertical"
         android:layout_gravity="center"
         android:gravity="center"
-        tools:context=".ImcActivity">
+        tools:context="com.henriqueakruger.fitnesstracker.ImcActivity">
 
         <TextView
             style="@style/TextViewForm"
